@@ -17,4 +17,8 @@ public class ZbjGitExer {
         System.out.println("大家好2");
         System.out.println("大家好我是张冰洁");
     }
+ public void testGit() {
+        System.out.println("测试冲突");
+    }
+
 }
