@@ -30,5 +30,8 @@ public class ZbjGitExer {
         System.out.println("冲突1111122222222222");
         System.out.println("冲突1111122222222222");
         System.out.println("冲突1111122222222222");
+        System.out.println("冲突1111122222222222");
+        System.out.println("冲突1111122222222222");
+        System.out.println("冲突22222222221211");
     }
 }
