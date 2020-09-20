@@ -16,5 +16,8 @@ public class ZbjGitExer {
         System.out.println("大家好2");
         System.out.println("大家好2");
         System.out.println("大家好我是张冰洁");
+        System.out.println("大家好我是张冰洁");
+        System.out.println("大家好我是张冰洁");
     }
+
 }
