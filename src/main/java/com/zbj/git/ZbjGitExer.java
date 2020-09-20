@@ -19,6 +19,8 @@ public class ZbjGitExer {
     }
  public void testGit() {
         System.out.println("测试冲突");
+        System.out.println("测试冲突");
+        System.out.println("测试冲突");
     }
 
 }
